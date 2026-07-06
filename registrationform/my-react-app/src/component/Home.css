@@ -1,0 +1,230 @@
+/* ===========================
+   GLOBAL
+=========================== */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f4f7fc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ===========================
+   HOME CONTAINER
+=========================== */
+
+.home-container {
+  width: 98%;
+  margin: 20px auto;
+}
+
+/* ===========================
+   TITLE
+=========================== */
+
+.title {
+  text-align: center;
+  color: #0d47a1;
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* ===========================
+   TABLE CONTAINER
+=========================== */
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* ===========================
+   TABLE
+=========================== */
+
+.employee-table {
+  width: 100%;
+  min-width: 1800px;
+  border-collapse: collapse;
+}
+
+/* ===========================
+   TABLE HEADER
+=========================== */
+
+.employee-table thead tr {
+  background: #1976d2;
+}
+
+.employee-table th {
+  color: white;
+  padding: 14px;
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid #ddd;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+/* ===========================
+   TABLE ROWS
+=========================== */
+
+.employee-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+/* alternate row colors */
+.employee-table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+.employee-table tbody tr:nth-child(odd) {
+  background: #ffffff;
+}
+
+/* hover effect */
+.employee-table tbody tr:hover {
+  background: #e3f2fd;
+}
+
+/* ===========================
+   INPUT FIELDS
+=========================== */
+
+.employee-table input {
+  width: 95%;
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.employee-table input:focus {
+  outline: none;
+  border-color: #1976d2;
+  box-shadow: 0 0 4px rgba(25, 118, 210, 0.4);
+}
+
+/* ===========================
+   ADDRESS COLUMN (optional wider columns)
+=========================== */
+
+.employee-table td:nth-child(12),
+.employee-table td:nth-child(13) {
+  min-width: 200px;
+  text-align: left;
+  white-space: normal;
+}
+
+/* ===========================
+   BUTTONS
+=========================== */
+
+.edit-btn {
+  background: #1976d2;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.edit-btn:hover {
+  background: #0d47a1;
+}
+
+/* SAVE BUTTON */
+.save-btn {
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 5px;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.save-btn:hover {
+  background: #1e7e34;
+}
+
+/* CANCEL BUTTON */
+.cancel-btn {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.cancel-btn:hover {
+  background: #b02a37;
+}
+
+/* ===========================
+   SCROLLBAR STYLING
+=========================== */
+
+.table-container::-webkit-scrollbar {
+  height: 10px;
+}
+
+.table-container::-webkit-scrollbar-track {
+  background: #eee;
+  border-radius: 10px;
+}
+
+.table-container::-webkit-scrollbar-thumb {
+  background: #1976d2;
+  border-radius: 10px;
+}
+
+.table-container::-webkit-scrollbar-thumb:hover {
+  background: #0d47a1;
+}
+
+/* ===========================
+   RESPONSIVE DESIGN
+=========================== */
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 22px;
+  }
+
+  .employee-table {
+    min-width: 1400px;
+  }
+
+  .employee-table th,
+  .employee-table td {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .edit-btn,
+  .save-btn,
+  .cancel-btn {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2alVJ0W1VEs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muthukarthika\\OneDrive\\Documents\\hrms\\HR and project management system\\HR and project management system\\HR and project management system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muthukarthika\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

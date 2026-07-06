@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "HRMS.Controllers.EmployeeApiController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/EmployeeApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "HRMS.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMS.Controllers.EmployeeApiController",
+    "Method": "GetEmployeeHome",
+    "RelativePath": "api/EmployeeApi/employeehome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMS.Controllers.EmployeeApiController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/EmployeeApi/employeehome/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "emp",
+        "Type": "HRMS.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMS.Controllers.EmployeeApiController",
+    "Method": "Health",
+    "RelativePath": "api/EmployeeApi/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

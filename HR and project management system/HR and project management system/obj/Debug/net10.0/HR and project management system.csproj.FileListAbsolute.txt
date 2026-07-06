@@ -1,0 +1,101 @@
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.AssemblyInfoInputs.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.AssemblyInfo.cs
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.csproj.CoreCompileInputs.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.RazorAssemblyInfo.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.RazorAssemblyInfo.cs
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.csproj.AssemblyReference.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\appsettings.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.staticwebassets.runtime.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.staticwebassets.endpoints.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.exe
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.deps.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.runtimeconfig.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.dll
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\HR and project management system.pdb
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\scopedcss\bundle\HR and project management system.styles.css
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\scopedcss\projectbundle\HR and project management system.bundle.scp.css
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\2mhlyo23gs-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\l6zsad0hp4-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\a3fe5w3vcb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\rqcx2oolwz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\y67qt4kxto-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\opgqoyr0c5-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\kkg6w41wtn-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\rg1fzyt9ch-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\c89576w3sk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\4hqg8cbef0-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\wfl8j2okle-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\ivxhnuzkxg-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\r7m5o3oirs-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\275pz012y6-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\2jmu00iwho-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\ifm7dr4x8g-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\3fn1hkissf-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\yjgs8lyok2-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\u9amtzz2js-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\sax08cifzz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\anuv58o2ac-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\6y03du2hsr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\23qs06p5zz-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\pxe18yweov-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\dnn49m0olr-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\ij8gw9vky0-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\jtcr4zezzn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\0oiys3b93h-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\rf2bd78em5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\e67j4a2ml3-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\w5domzcpdv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\rfxnvyeblc-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\0yypphwme6-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\k6lhtw1zvd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\w30roorv39-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\9wys4xfnca-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\69t1o1quhz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\zwi04untpx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\u90ui5u7oz-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\k2yc2vq9fn-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\voufqldcs1-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\iwmt7uekh7-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\p0vvmhkmn0-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\5qxei148ny-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\ce9r8zrium-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\uqfaczk961-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\98gqqzbxcb-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\zyzmh7x4xu-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\mz8pnrq7f0-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\48iun851kf-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\x8kz75tlsd-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\h58k16hv08-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\omsamnscxt-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\8wcmjmrfc0-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\6fv3e5sihq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\93nxdjt9xm-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\kxyp36fylh-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\kixefvc2k2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\b9ldpp9ja6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\lgguhz66ua-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\m2oms4f5ys-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\4y1apqj05k-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\7mlmehs2oz-{0}-6cadvypmiv-6cadvypmiv.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\compressed\60m7awadju-{0}-6cadvypmiv-6cadvypmiv.gz
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and p.94FFBBAF.Up2Date
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.dll
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\refint\HR and project management system.dll
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.pdb
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\HR and project management system.genruntimeconfig.cache
+C:\Users\Muthukarthika\OneDrive\Documents\hrms\HR and project management system\HR and project management system\obj\Debug\net10.0\ref\HR and project management system.dll
