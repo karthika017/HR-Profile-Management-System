@@ -1,27 +1,60 @@
-# HR Profile Management System
+# 🏢 HR Profile Management System
+
+A Full-Stack Web Application developed using **React.js**, **ASP.NET Core Web API**, and **PostgreSQL** for efficient employee profile management.
+
+---
 
 ## 📌 Project Overview
 
-The **HR Profile Management System** is a full-stack web application developed to simplify the management of employee profile information. The system provides a centralized platform where HR administrators can efficiently create, view, update, and delete employee records through a user-friendly interface.
+The **HR Profile Management System** is designed to simplify the management of employee profile information within an organization. It provides a centralized platform where HR administrators can efficiently **create, view, update, and delete employee records** through a modern and user-friendly interface.
 
-The application is developed using **React.js** for the frontend, **ASP.NET Core Web API** for the backend, and **PostgreSQL** as the database. It follows a three-tier architecture to ensure scalability, maintainability, and efficient data management.
+The application follows a **three-tier architecture**, with React.js handling the frontend, ASP.NET Core Web API managing the business logic, and PostgreSQL serving as the database.
+
+---
+
+## 🎯 Project Objectives
+
+- Develop a centralized employee profile management system.
+- Implement complete CRUD (Create, Read, Update, Delete) operations.
+- Store employee information securely using PostgreSQL.
+- Build a responsive and user-friendly web interface.
+- Integrate React.js with ASP.NET Core Web API.
 
 ---
 
 ## 🚀 Features
 
-- Employee Registration
-- View Employee Profiles
-- Update Employee Information
-- Delete Employee Profiles
-- Responsive User Interface
-- RESTful API Integration
-- PostgreSQL Database Connectivity
-- Full CRUD Operations
+- ✅ Employee Registration
+- ✅ View Employee Profiles
+- ✅ Update Employee Information
+- ✅ Delete Employee Records
+- ✅ Responsive User Interface
+- ✅ RESTful API Integration
+- ✅ PostgreSQL Database Connectivity
+- ✅ Full CRUD Functionality
 
 ---
 
-## 🛠 Technologies Used
+## 📋 Modules
+
+### 👤 Employee Registration
+Allows HR administrators to register new employees by entering personal, contact, address, and employment details.
+
+### 📄 Employee Profile Management
+Displays all employee records in a structured table for easy access.
+
+### ✏️ Employee Update
+Enables editing and updating of employee information whenever required.
+
+### 🗑️ Employee Deletion
+Allows removal of employee records from the system.
+
+### 🗄️ Database Management
+Stores and manages employee information securely using PostgreSQL.
+
+---
+
+## 🛠️ Technologies Used
 
 ### Frontend
 - React.js
@@ -37,7 +70,7 @@ The application is developed using **React.js** for the frontend, **ASP.NET Core
 - PostgreSQL
 - Npgsql
 
-### Tools
+### Development Tools
 - Visual Studio
 - Visual Studio Code
 - Postman
@@ -46,60 +79,34 @@ The application is developed using **React.js** for the frontend, **ASP.NET Core
 
 ---
 
-## 📂 Project Structure
-
-```
-HR-Profile-Management-System
-│
-├── Frontend
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── Backend
-│   ├── Controllers
-│   ├── Models
-│   ├── Program.cs
-│   └── appsettings.json
-│
-├── Database
-│   └── Employee_Table.sql
-│
-├── Screenshots
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/karthika017/HR-Profile-Management-System.git
 ```
 
-### 2. Navigate to the Project
+### Navigate to the Project
 
 ```bash
 cd HR-Profile-Management-System
 ```
 
-### 3. Configure the Database
+### Configure PostgreSQL
 
-- Install PostgreSQL
-- Create a new database
-- Execute the SQL script provided in the Database folder
-- Update the connection string in the ASP.NET Core Web API project
+- Install PostgreSQL.
+- Create a new database.
+- Execute the SQL script (`CREATE TABLE Employees.sql`).
+- Update the connection string in the ASP.NET Core Web API project.
 
-### 4. Run the Backend
+### Run the Backend
 
 Open the backend project in **Visual Studio** and run the ASP.NET Core Web API.
 
-### 5. Run the Frontend
+### Run the Frontend
 
-Open the frontend folder in **Visual Studio Code**.
+Open the frontend project in **Visual Studio Code**.
 
 Install dependencies:
 
@@ -115,32 +122,19 @@ npm start
 
 ---
 
-## 📸 Project Screenshots
-
-### Home Page
-
-(Add Home Page Screenshot)
-
-### Employee Registration
-
-(Add Registration Screenshot)
-
-### Employee Management
-
-(Add Employee List Screenshot)
-
----
-
 ## 🔄 System Workflow
 
 ```
 HR Administrator
         │
         ▼
+Employee Registration / View / Update / Delete
+        │
+        ▼
 React.js Frontend
         │
 HTTP Requests
-(GET / POST / PUT / DELETE)
+(GET • POST • PUT • DELETE)
         │
         ▼
 ASP.NET Core Web API
@@ -149,8 +143,34 @@ ASP.NET Core Web API
 PostgreSQL Database
         │
         ▼
-Updated Employee Information
+Updated Employee Information Displayed
 ```
+
+---
+
+## 📸 Project Screenshots
+
+### Employee Registration Form
+
+The registration form enables HR administrators to enter employee personal, contact, address, and employment information.
+
+![Employee Registration](Registration.png)
+
+---
+
+### Employee Details
+
+Displays employee information in a structured table with options to edit employee details.
+
+![Employee Details](EmployeeDetails.png)
+
+---
+
+### PostgreSQL Database
+
+Employee profile information is securely stored and managed using PostgreSQL.
+
+![Database](Database.png)
 
 ---
 
@@ -169,28 +189,31 @@ Updated Employee Information
 
 ## 📚 Learning Outcomes
 
-This project helped in gaining practical knowledge of:
+This project helped in gaining practical experience in:
 
 - Full-Stack Web Development
-- RESTful API Development
-- React.js Components
+- React.js Development
 - ASP.NET Core Web API
-- PostgreSQL Database
+- REST API Development
+- PostgreSQL Database Management
 - CRUD Operations
+- Frontend–Backend Integration
 - Git & GitHub Version Control
 
 ---
 
 ## 👩‍💻 Author
 
-**Karthika M**
+**Muthukarthika M**
 
-M.Sc. Computer Science Student
+🎓 M.Sc. Computer Science Student
 
-GitHub: https://github.com/karthika017
+💻 Full-Stack Web Development Enthusiast
+
+🔗 GitHub: https://github.com/karthika017
 
 ---
 
 ## 📄 License
 
-This project is developed for educational and learning purposes.
+This project was developed for educational and learning purposes.
